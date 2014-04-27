@@ -1,4 +1,4 @@
 mercury-vertx-binding
 =====================
 
-A Mercury binding for http://vertx.io/, written using the Java grade.
+A [Mercury](http://www.mercurylang.org) binding for [Vert.x](http://vertx.io/), written using the Java grade.
